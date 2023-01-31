@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "graphql-request": "^5.1.0"
+  },
+  "name": "tarkovbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "blake",
+  "license": "ISC",
+  "description": "An Escape from Trakov utility bot"
+}
