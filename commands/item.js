@@ -13,6 +13,9 @@ async function getItem(item) {
             wikiLink
             iconLink
             avg24hPrice
+            usedInTasks{
+                name
+            }
             properties {... on ItemPropertiesAmmo {
                 caliber
                 damage
@@ -37,10 +40,9 @@ module.exports = {
                 .setRequired(true)),
     async execute(interaction) {
         const item = interaction.options.getString('item')
-        await interaction.deferReply()
+        await interaction.deferReply() //Defer response incase of API timeout
         response = await getItem(item)
-        console.log(response)
-        if(response.items.length > 0){
+        if(response.items.length > 0){ //Make sure that response isn't empty
             if(response.items.length > 1){
                 for(items in response.items){
                     if(!response.items[items].types.includes('ammo')){
@@ -55,13 +57,27 @@ module.exports = {
                 .setThumbnail(`${response.items[0].iconLink}`)
                 .setColor(0x5DA9E9)
                 .setFooter({text: 'Tarkov bot developed by Pappysox#0001'})
-
+            
+            //Checks if item can be sold on flea
             if(response.items[0].types.includes('noFlea')){
                 itemEmbed.addFields({ name: 'Avg 24hr price', value: `Item not available on flea`})
             } else {
                 itemEmbed.addFields({ name: 'Avg 24hr price', value: `${response.items[0].avg24hPrice} roubles`})
             }
             
+            //Checks if the item is used in any tasks
+            if(response.items[0].usedInTasks.length > 0){
+                usedInTasks = ""
+                for(task in response.items[0].usedInTasks){
+                    usedInTasks = usedInTasks.concat(response.items[0].usedInTasks[task].name)
+                }
+                console.log(usedInTasks)
+                itemEmbed.addFields({name: 'Used in', value: `${usedInTasks}`})
+            } else{
+                itemEmbed.addFields({name: 'Used in', value: 'No tasks'})
+            }
+
+            //Checks if item is ammo
             if(response.items[0].types.includes('ammo')){
                 itemEmbed.addFields(
                     {name: 'Damage', value: `${response.items[0].properties.damage}`, inline: true},

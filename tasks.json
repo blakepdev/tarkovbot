@@ -1,0 +1,1234 @@
+[
+    {
+    "id": "5936d90786f7742b1420ba5b",
+    "name": "Debut"
+    },
+    {
+    "id": "5936da9e86f7742d65037edf",
+    "name": "Checking"
+    },
+    {
+    "id": "59674cd986f7744ab26e32f2",
+    "name": "Shootout Picnic"
+    },
+    {
+    "id": "59674eb386f774539f14813a",
+    "name": "Delivery from the Past"
+    },
+    {
+    "id": "5967530a86f77462ba22226b",
+    "name": "Bad Rep Evidence"
+    },
+    {
+    "id": "59675d6c86f7740a842fc482",
+    "name": "Ice Cream Cones"
+    },
+    {
+    "id": "59675ea386f77414b32bded2",
+    "name": "Postman Pat - Part 1"
+    },
+    {
+    "id": "596760e186f7741e11214d58",
+    "name": "Postman Pat - Part 2"
+    },
+    {
+    "id": "5967725e86f774601a446662",
+    "name": "Shaking up the Teller"
+    },
+    {
+    "id": "5967733e86f774602332fc84",
+    "name": "Shortage"
+    },
+    {
+    "id": "59689ee586f7740d1570bbd5",
+    "name": "Sanitary Standards - Part 1"
+    },
+    {
+    "id": "59689fbd86f7740d137ebfc4",
+    "name": "Operation Aquarius - Part 1"
+    },
+    {
+    "id": "5968eb3186f7741dde183a4d",
+    "name": "Operation Aquarius - Part 2"
+    },
+    {
+    "id": "5969f90786f77420d2328015",
+    "name": "Painkiller"
+    },
+    {
+    "id": "5969f9e986f7741dde183a50",
+    "name": "Pharmacist"
+    },
+    {
+    "id": "596a0e1686f7741ddf17dbee",
+    "name": "Supply Plans"
+    },
+    {
+    "id": "596a101f86f7741ddb481582",
+    "name": "Kind of Sabotage"
+    },
+    {
+    "id": "596a1e6c86f7741ddc2d3206",
+    "name": "General Wares"
+    },
+    {
+    "id": "596a204686f774576d4c95de",
+    "name": "Sanitary Standards - Part 2"
+    },
+    {
+    "id": "596a218586f77420d232807c",
+    "name": "Car Repair"
+    },
+    {
+    "id": "596b36c586f77450d6045ad2",
+    "name": "Supplier"
+    },
+    {
+    "id": "596b43fb86f77457ca186186",
+    "name": "The Extortionist"
+    },
+    {
+    "id": "596b455186f77457cb50eccb",
+    "name": "Stirrup"
+    },
+    {
+    "id": "5979ed3886f77431307dc512",
+    "name": "What’s on the Flash Drive?"
+    },
+    {
+    "id": "5979eee086f774311955e614",
+    "name": "Golden Swag"
+    },
+    {
+    "id": "5979f8bb86f7743ec214c7a6",
+    "name": "Polikhim Hobo"
+    },
+    {
+    "id": "5979f9ba86f7740f6c3fe9f2",
+    "name": "Chemical - Part 1"
+    },
+    {
+    "id": "597a0b2986f77426d66c0633",
+    "name": "Chemical - Part 2"
+    },
+    {
+    "id": "597a0e5786f77426d66c0636",
+    "name": "Chemical - Part 3"
+    },
+    {
+    "id": "597a0f5686f774273b74f676",
+    "name": "Chemical - Part 4"
+    },
+    {
+    "id": "597a160786f77477531d39d2",
+    "name": "Out of Curiosity"
+    },
+    {
+    "id": "597a171586f77405ba6887d3",
+    "name": "Big Customer"
+    },
+    {
+    "id": "59c124d686f774189b3c843f",
+    "name": "BP Depot"
+    },
+    {
+    "id": "59c50a9e86f7745fef66f4ff",
+    "name": "The Punisher - Part 1"
+    },
+    {
+    "id": "59c50c8886f7745fed3193bf",
+    "name": "The Punisher - Part 2"
+    },
+    {
+    "id": "59c512ad86f7741f0d09de9b",
+    "name": "The Punisher - Part 3"
+    },
+    {
+    "id": "59c9392986f7742f6923add2",
+    "name": "Trust Regain"
+    },
+    {
+    "id": "59c93e8e86f7742a406989c4",
+    "name": "Loyalty Buyout"
+    },
+    {
+    "id": "59ca1a6286f774509a270942",
+    "name": "No Offence"
+    },
+    {
+    "id": "59ca264786f77445a80ed044",
+    "name": "The Punisher - Part 4"
+    },
+    {
+    "id": "59ca29fb86f77445ab465c87",
+    "name": "The Punisher - Part 5"
+    },
+    {
+    "id": "59ca2eb686f77445a80ed049",
+    "name": "The Punisher - Part 6"
+    },
+    {
+    "id": "5a03153686f77442d90e2171",
+    "name": "Spa Tour - Part 1"
+    },
+    {
+    "id": "5a03173786f77451cb427172",
+    "name": "Spa Tour - Part 2"
+    },
+    {
+    "id": "5a0327ba86f77456b9154236",
+    "name": "Spa Tour - Part 3"
+    },
+    {
+    "id": "5a03296886f774569778596a",
+    "name": "Spa Tour - Part 4"
+    },
+    {
+    "id": "5a0449d586f77474e66227b7",
+    "name": "Spa Tour - Part 5"
+    },
+    {
+    "id": "5a27b75b86f7742e97191958",
+    "name": "Fishing Gear"
+    },
+    {
+    "id": "5a27b7a786f774579c3eb376",
+    "name": "Tigr Safari"
+    },
+    {
+    "id": "5a27b7d686f77460d847e6a6",
+    "name": "Scrap Metal"
+    },
+    {
+    "id": "5a27b80086f774429a5d7e20",
+    "name": "Eagle Eye"
+    },
+    {
+    "id": "5a27b87686f77460de0252a8",
+    "name": "Humanitarian Supplies"
+    },
+    {
+    "id": "5a27b9de86f77464e5044585",
+    "name": "The Cult - Part 1"
+    },
+    {
+    "id": "5a27ba1c86f77461ea5a3c56",
+    "name": "The Cult - Part 2"
+    },
+    {
+    "id": "5a27ba9586f7741b543d8e85",
+    "name": "Spa Tour - Part 6"
+    },
+    {
+    "id": "5a27bafb86f7741c73584017",
+    "name": "Spa Tour - Part 7"
+    },
+    {
+    "id": "5a27bb1e86f7741f27621b7e",
+    "name": "Cargo X - Part 1"
+    },
+    {
+    "id": "5a27bb3d86f77411ea361a21",
+    "name": "Cargo X - Part 2"
+    },
+    {
+    "id": "5a27bb5986f7741dfb660900",
+    "name": "Cargo X - Part 3"
+    },
+    {
+    "id": "5a27bb8386f7741c770d2d0a",
+    "name": "Wet Job - Part 1"
+    },
+    {
+    "id": "5a27bbf886f774333a418eeb",
+    "name": "Wet Job - Part 2"
+    },
+    {
+    "id": "5a27bc1586f7741f6d40fa2f",
+    "name": "Wet Job - Part 3"
+    },
+    {
+    "id": "5a27bc3686f7741c73584026",
+    "name": "Wet Job - Part 4"
+    },
+    {
+    "id": "5a27bc6986f7741c7358402b",
+    "name": "Wet Job - Part 5"
+    },
+    {
+    "id": "5a27bc8586f7741b543d8ea4",
+    "name": "Wet Job - Part 6"
+    },
+    {
+    "id": "5a27c99a86f7747d2c6bdd8e",
+    "name": "Friend from the West - Part 1"
+    },
+    {
+    "id": "5a27d2af86f7744e1115b323",
+    "name": "Friend from the West - Part 2"
+    },
+    {
+    "id": "5a5642ce86f77445c63c3419",
+    "name": "Hippocratic Oath"
+    },
+    {
+    "id": "5a68661a86f774500f48afb0",
+    "name": "Health Care Privacy - Part 1"
+    },
+    {
+    "id": "5a68663e86f774501078f78a",
+    "name": "Health Care Privacy - Part 2"
+    },
+    {
+    "id": "5a68665c86f774255929b4c7",
+    "name": "Health Care Privacy - Part 3"
+    },
+    {
+    "id": "5a68667486f7742607157d28",
+    "name": "Health Care Privacy - Part 4"
+    },
+    {
+    "id": "5a68669a86f774255929b4d4",
+    "name": "Health Care Privacy - Part 5"
+    },
+    {
+    "id": "5ac23c6186f7741247042bad",
+    "name": "Gunsmith - Part 1"
+    },
+    {
+    "id": "5ac2426c86f774138762edfe",
+    "name": "Gunsmith - Part 2"
+    },
+    {
+    "id": "5ac2428686f77412450b42bf",
+    "name": "Gunsmith - Part 3"
+    },
+    {
+    "id": "5ac242ab86f77412464f68b4",
+    "name": "Gunsmith - Part 16"
+    },
+    {
+    "id": "5ac244c486f77413e12cf945",
+    "name": "Gunsmith - Part 13"
+    },
+    {
+    "id": "5ac244eb86f7741356335af1",
+    "name": "Gunsmith - Part 7"
+    },
+    {
+    "id": "5ac345dc86f774288030817f",
+    "name": "Farming - Part 1"
+    },
+    {
+    "id": "5ac3460c86f7742880308185",
+    "name": "Farming - Part 2"
+    },
+    {
+    "id": "5ac3462b86f7741d6118b983",
+    "name": "Farming - Part 3"
+    },
+    {
+    "id": "5ac3464c86f7741d651d6877",
+    "name": "Farming - Part 4"
+    },
+    {
+    "id": "5ac3467986f7741d6224abc2",
+    "name": "Signal - Part 1"
+    },
+    {
+    "id": "5ac346a886f7744e1b083d67",
+    "name": "Signal - Part 2"
+    },
+    {
+    "id": "5ac346cf86f7741d63233a02",
+    "name": "Signal - Part 3"
+    },
+    {
+    "id": "5ac346e886f7741d6118b99b",
+    "name": "Signal - Part 4"
+    },
+    {
+    "id": "5ac3475486f7741d6224abd3",
+    "name": "Bad Habit"
+    },
+    {
+    "id": "5ac3477486f7741d651d6885",
+    "name": "Scout"
+    },
+    {
+    "id": "5ac3479086f7742880308199",
+    "name": "Insider"
+    },
+    {
+    "id": "5ae3267986f7742a413592fe",
+    "name": "Gunsmith - Part 5"
+    },
+    {
+    "id": "5ae3270f86f77445ba41d4dd",
+    "name": "Gunsmith - Part 6"
+    },
+    {
+    "id": "5ae3277186f7745973054106",
+    "name": "Gunsmith - Part 8"
+    },
+    {
+    "id": "5ae327c886f7745c7b3f2f3f",
+    "name": "Gunsmith - Part 10"
+    },
+    {
+    "id": "5ae3280386f7742a41359364",
+    "name": "Gunsmith - Part 15"
+    },
+    {
+    "id": "5ae448a386f7744d3730fff0",
+    "name": "Only Business"
+    },
+    {
+    "id": "5ae448bf86f7744d733e55ee",
+    "name": "Make ULTRA Great Again"
+    },
+    {
+    "id": "5ae448e586f7744dcf0c2a67",
+    "name": "Big Sale"
+    },
+    {
+    "id": "5ae448f286f77448d73c0131",
+    "name": "The Blood of War - Part 1"
+    },
+    {
+    "id": "5ae4490786f7744ca822adcc",
+    "name": "Dressed to Kill"
+    },
+    {
+    "id": "5ae4493486f7744efa289417",
+    "name": "Database - Part 1"
+    },
+    {
+    "id": "5ae4493d86f7744b8e15aa8f",
+    "name": "Database - Part 2"
+    },
+    {
+    "id": "5ae4495086f77443c122bc40",
+    "name": "Sew it Good - Part 1"
+    },
+    {
+    "id": "5ae4495c86f7744e87761355",
+    "name": "Sew it Good - Part 2"
+    },
+    {
+    "id": "5ae4496986f774459e77beb6",
+    "name": "Sew it Good - Part 3"
+    },
+    {
+    "id": "5ae4497b86f7744cf402ed00",
+    "name": "Sew it Good - Part 4"
+    },
+    {
+    "id": "5ae4498786f7744bde357695",
+    "name": "The Key to Success"
+    },
+    {
+    "id": "5ae4499a86f77449783815db",
+    "name": "Charisma Brings Success"
+    },
+    {
+    "id": "5ae449a586f7744bde357696",
+    "name": "No Fuss Needed"
+    },
+    {
+    "id": "5ae449b386f77446d8741719",
+    "name": "Gratitude"
+    },
+    {
+    "id": "5ae449c386f7744bde357697",
+    "name": "Sales Night"
+    },
+    {
+    "id": "5ae449d986f774453a54a7e1",
+    "name": "Supervisor"
+    },
+    {
+    "id": "5b47749f86f7746c5d6a5fd4",
+    "name": "Gunsmith - Part 17"
+    },
+    {
+    "id": "5b47799d86f7746c5d6a5fd8",
+    "name": "Gunsmith - Part 12"
+    },
+    {
+    "id": "5b477b6f86f7747290681823",
+    "name": "Gunsmith - Part 18"
+    },
+    {
+    "id": "5b477f7686f7744d1b23c4d2",
+    "name": "Gunsmith - Part 20"
+    },
+    {
+    "id": "5b47825886f77468074618d3",
+    "name": "Gunsmith - Part 22"
+    },
+    {
+    "id": "5b47876e86f7744d1c353205",
+    "name": "The Blood of War - Part 2"
+    },
+    {
+    "id": "5b47891f86f7744d1b23c571",
+    "name": "Living High is Not a Crime - Part 1"
+    },
+    {
+    "id": "5b478b1886f7744d1b23c57d",
+    "name": "Hot Delivery"
+    },
+    {
+    "id": "5b478d0f86f7744d190d91b5",
+    "name": "Minibus"
+    },
+    {
+    "id": "5b478eca86f7744642012254",
+    "name": "Vitamins - Part 1"
+    },
+    {
+    "id": "5b478ff486f7744d184ecbbf",
+    "name": "Vitamins - Part 2"
+    },
+    {
+    "id": "5b47926a86f7747ccc057c15",
+    "name": "Informed Means Armed"
+    },
+    {
+    "id": "5b4794cb86f774598100d5d4",
+    "name": "Lend-Lease - Part 1"
+    },
+    {
+    "id": "5b4795fb86f7745876267770",
+    "name": "Chumming"
+    },
+    {
+    "id": "5bc4776586f774512d07cf05",
+    "name": "The Tarkov Shooter - Part 1"
+    },
+    {
+    "id": "5bc479e586f7747f376c7da3",
+    "name": "The Tarkov Shooter - Part 2"
+    },
+    {
+    "id": "5bc47dbf86f7741ee74e93b9",
+    "name": "The Tarkov Shooter - Part 3"
+    },
+    {
+    "id": "5bc480a686f7741af0342e29",
+    "name": "The Tarkov Shooter - Part 4"
+    },
+    {
+    "id": "5bc4826c86f774106d22d88b",
+    "name": "The Tarkov Shooter - Part 5"
+    },
+    {
+    "id": "5bc4836986f7740c0152911c",
+    "name": "The Tarkov Shooter - Part 6"
+    },
+    {
+    "id": "5bc4856986f77454c317bea7",
+    "name": "The Tarkov Shooter - Part 7"
+    },
+    {
+    "id": "5bc4893c86f774626f5ebf3e",
+    "name": "The Tarkov Shooter - Part 8"
+    },
+    {
+    "id": "5c0bbaa886f7746941031d82",
+    "name": "Bullshit"
+    },
+    {
+    "id": "5c0bc91486f7746ab41857a2",
+    "name": "Silent Caliber"
+    },
+    {
+    "id": "5c0bd01e86f7747cdd799e56",
+    "name": "Insomnia"
+    },
+    {
+    "id": "5c0bd94186f7747a727f09b2",
+    "name": "Test Drive - Part 1"
+    },
+    {
+    "id": "5c0bdb5286f774166e38eed4",
+    "name": "Flint"
+    },
+    {
+    "id": "5c0bde0986f77479cf22c2f8",
+    "name": "A Shooter Born in Heaven"
+    },
+    {
+    "id": "5c0be13186f7746f016734aa",
+    "name": "Psycho Sniper"
+    },
+    {
+    "id": "5c0be5fc86f774467a116593",
+    "name": "Private Clinic"
+    },
+    {
+    "id": "5c0d0d5086f774363760aef2",
+    "name": "Athlete"
+    },
+    {
+    "id": "5c0d0f1886f77457b8210226",
+    "name": "Lend-Lease - Part 2"
+    },
+    {
+    "id": "5c0d190cd09282029f5390d8",
+    "name": "Grenadier"
+    },
+    {
+    "id": "5c0d1c4cd0928202a02a6f5c",
+    "name": "Decontamination Service"
+    },
+    {
+    "id": "5c0d4c12d09282029f539173",
+    "name": "Peacekeeping Mission"
+    },
+    {
+    "id": "5c0d4e61d09282029f53920e",
+    "name": "The Guide"
+    },
+    {
+    "id": "5c10f94386f774227172c572",
+    "name": "The Blood of War - Part 3"
+    },
+    {
+    "id": "5c1128e386f7746565181106",
+    "name": "Fertilizers"
+    },
+    {
+    "id": "5c112d7e86f7740d6f647486",
+    "name": "Scavenger"
+    },
+    {
+    "id": "5c1141f386f77430ff393792",
+    "name": "Living High is Not a Crime - Part 2"
+    },
+    {
+    "id": "5c1234c286f77406fa13baeb",
+    "name": "Setup"
+    },
+    {
+    "id": "5c12452c86f7744b83469073",
+    "name": "Perfect Mediator"
+    },
+    {
+    "id": "5c139eb686f7747878361a6f",
+    "name": "Import"
+    },
+    {
+    "id": "5c51aac186f77432ea65c552",
+    "name": "Collector"
+    },
+    {
+    "id": "5d2495a886f77425cd51e403",
+    "name": "Introduction"
+    },
+    {
+    "id": "5d24b81486f77439c92d6ba8",
+    "name": "Acquaintance"
+    },
+    {
+    "id": "5d25aed386f77442734d25d2",
+    "name": "The Survivalist Path - Unprotected but Dangerous"
+    },
+    {
+    "id": "5d25b6be86f77444001e1b89",
+    "name": "The Survivalist Path - Thrifty"
+    },
+    {
+    "id": "5d25bfd086f77442734d3007",
+    "name": "The Survivalist Path - Zhivchik"
+    },
+    {
+    "id": "5d25c81b86f77443e625dd71",
+    "name": "The Survivalist Path - Wounded Beast"
+    },
+    {
+    "id": "5d25cf2686f77443e75488d4",
+    "name": "The Survivalist Path - Tough Guy"
+    },
+    {
+    "id": "5d25d2c186f77443e35162e5",
+    "name": "The Survivalist Path - Cold Blooded"
+    },
+    {
+    "id": "5d25e29d86f7740a22516326",
+    "name": "The Survivalist Path - Eagle-Owl"
+    },
+    {
+    "id": "5d25e2a986f77409dd5cdf2a",
+    "name": "The Survivalist Path - Combat Medic"
+    },
+    {
+    "id": "5d25e2b486f77409de05bba0",
+    "name": "The Huntsman Path - Secured Perimeter"
+    },
+    {
+    "id": "5d25e2c386f77443e7549029",
+    "name": "The Huntsman Path - Trophy"
+    },
+    {
+    "id": "5d25e2cc86f77443e47ae019",
+    "name": "The Huntsman Path - Forest Cleaning"
+    },
+    {
+    "id": "5d25e2d886f77442734d335e",
+    "name": "The Huntsman Path - Controller"
+    },
+    {
+    "id": "5d25e2e286f77444001e2e48",
+    "name": "The Huntsman Path - Sellout"
+    },
+    {
+    "id": "5d25e2ee86f77443e35162ea",
+    "name": "The Huntsman Path - Woods Keeper"
+    },
+    {
+    "id": "5d25e43786f7740a212217fa",
+    "name": "The Huntsman Path - Justice"
+    },
+    {
+    "id": "5d25e44386f77409453bce7b",
+    "name": "The Huntsman Path - Evil Watchman"
+    },
+    {
+    "id": "5d25e44f86f77443e625e385",
+    "name": "The Huntsman Path - Eraser - Part 1"
+    },
+    {
+    "id": "5d25e45e86f77408251c4bfa",
+    "name": "The Huntsman Path - Eraser - Part 2"
+    },
+    {
+    "id": "5d25e46e86f77409453bce7c",
+    "name": "Ambulance"
+    },
+    {
+    "id": "5d25e48186f77443e625e386",
+    "name": "Courtesy Visit"
+    },
+    {
+    "id": "5d25e48d86f77408251c4bfb",
+    "name": "Shady Business"
+    },
+    {
+    "id": "5d25e4ad86f77443e625e387",
+    "name": "Nostalgia"
+    },
+    {
+    "id": "5d25e4b786f77408251c4bfc",
+    "name": "Fishing Place"
+    },
+    {
+    "id": "5d25e4ca86f77409dd5cdf2c",
+    "name": "Hunting Trip"
+    },
+    {
+    "id": "5d25e4d586f77443e625e388",
+    "name": "Reserve"
+    },
+    {
+    "id": "5d4bec3486f7743cac246665",
+    "name": "Regulated Materials"
+    },
+    {
+    "id": "5d6fb2c086f77449da599c24",
+    "name": "An Apple a Day Keeps the Doctor Away"
+    },
+    {
+    "id": "5d6fbc2886f77449d825f9d3",
+    "name": "Mentor"
+    },
+    {
+    "id": "5dc53acb86f77469c740c893",
+    "name": "The Stylish One"
+    },
+    {
+    "id": "5e381b0286f77420e3417a74",
+    "name": "Textile - Part 1"
+    },
+    {
+    "id": "5e383a6386f77465910ce1f3",
+    "name": "Textile - Part 1"
+    },
+    {
+    "id": "5e4d4ac186f774264f758336",
+    "name": "Textile - Part 2"
+    },
+    {
+    "id": "5e4d515e86f77438b2195244",
+    "name": "Textile - Part 2"
+    },
+    {
+    "id": "5eaaaa7c93afa0558f3b5a1c",
+    "name": "The Survivalist Path - Junkie"
+    },
+    {
+    "id": "5eda19f0edce541157209cee",
+    "name": "Anesthesia"
+    },
+    {
+    "id": "5edab4b1218d181e29451435",
+    "name": "The Huntsman Path - Sadist"
+    },
+    {
+    "id": "5edab736cc183c769d778bc2",
+    "name": "Colleagues - Part 1"
+    },
+    {
+    "id": "5edaba7c0c502106f869bc02",
+    "name": "Colleagues - Part 2"
+    },
+    {
+    "id": "5edabd13218d181e29451442",
+    "name": "Rigged Game"
+    },
+    {
+    "id": "5edac020218d181e29451446",
+    "name": "Samples"
+    },
+    {
+    "id": "5edac34d0bb72a50635c2bfa",
+    "name": "Colleagues - Part 3"
+    },
+    {
+    "id": "5edac63b930f5454f51e128b",
+    "name": "TerraGroup Employee"
+    },
+    {
+    "id": "5ede55112c95834b583f052a",
+    "name": "The Bunker - Part 1"
+    },
+    {
+    "id": "5ede567cfa6dc072ce15d6e3",
+    "name": "The Bunker - Part 2"
+    },
+    {
+    "id": "5f04886a3937dc337a6b8238",
+    "name": "Chemistry Closet"
+    },
+    {
+    "id": "5fd9fad9c1ce6b1a3b486d00",
+    "name": "Search Mission"
+    },
+    {
+    "id": "600302d73b897b11364cd161",
+    "name": "Hunter"
+    },
+    {
+    "id": "6086c852c945025d41566124",
+    "name": "Revision - Reserve"
+    },
+    {
+    "id": "60896888e4a85c72ef3fa300",
+    "name": "Classified Technologies"
+    },
+    {
+    "id": "60896b7bfa70fc097863b8f5",
+    "name": "Documents"
+    },
+    {
+    "id": "60896bca6ee58f38c417d4f2",
+    "name": "No Place for Renegades"
+    },
+    {
+    "id": "60896e28e4a85c72ef3fa301",
+    "name": "Disease History"
+    },
+    {
+    "id": "6089732b59b92115597ad789",
+    "name": "Surplus Goods"
+    },
+    {
+    "id": "6089736efa70fc097863b8f6",
+    "name": "Back Door"
+    },
+    {
+    "id": "6089743983426423753cd58a",
+    "name": "Safe Corridor"
+    },
+    {
+    "id": "608974af4b05530f55550c21",
+    "name": "Inventory Check"
+    },
+    {
+    "id": "608974d01a66564e74191fc0",
+    "name": "A Fuel Matter"
+    },
+    {
+    "id": "608a768d82e40b3c727fd17d",
+    "name": "Pest Control"
+    },
+    {
+    "id": "60c0c018f7afb4354815096a",
+    "name": "The Huntsman Path - Factory Chief"
+    },
+    {
+    "id": "60e71b62a0beca400d69efc4",
+    "name": "Escort"
+    },
+    {
+    "id": "60e71b9bbd90872cb85440f3",
+    "name": "Capturing Outposts"
+    },
+    {
+    "id": "60e71bb4e456d449cd47ca75",
+    "name": "Intimidator"
+    },
+    {
+    "id": "60e71c11d54b755a3b53eb65",
+    "name": "Night Sweep"
+    },
+    {
+    "id": "60e71c48c1bfa3050473b8e5",
+    "name": "Crisis"
+    },
+    {
+    "id": "60e71c9ad54b755a3b53eb66",
+    "name": "The Cleaner"
+    },
+    {
+    "id": "60e71ccb5688f6424c7bfec4",
+    "name": "Trophies"
+    },
+    {
+    "id": "60e71d23c1bfa3050473b8e6",
+    "name": "Calibration"
+    },
+    {
+    "id": "60e71d6d7fcf9c556f325055",
+    "name": "The Courier"
+    },
+    {
+    "id": "60e71dc0a94be721b065bbfc",
+    "name": "Long Line"
+    },
+    {
+    "id": "60e71dc67fcf9c556f325056",
+    "name": "Booze"
+    },
+    {
+    "id": "60e71e8ed54b755a3b53eb67",
+    "name": "The Huntsman Path - Relentless"
+    },
+    {
+    "id": "60e729cf5698ee7b05057439",
+    "name": "Swift One"
+    },
+    {
+    "id": "60effd818b669d08a35bfad5",
+    "name": "The Choice"
+    },
+    {
+    "id": "6179ac7511973d018217d0b9",
+    "name": "Easy Job - Part 1"
+    },
+    {
+    "id": "6179acbdc760af5ad2053585",
+    "name": "Easy Job - Part 2"
+    },
+    {
+    "id": "6179ad0a6e9dd54ac275e3f2",
+    "name": "The Huntsman Path - Outcasts"
+    },
+    {
+    "id": "6179ad56c760af5ad2053587",
+    "name": "Seaside Vacation"
+    },
+    {
+    "id": "6179afd0bca27a099552e040",
+    "name": "Lost Contact"
+    },
+    {
+    "id": "6179aff8f57fb279792c60a1",
+    "name": "Overpopulation"
+    },
+    {
+    "id": "6179b3a12153c15e937d52bc",
+    "name": "Energy Crisis"
+    },
+    {
+    "id": "6179b3bdc7560e13d23eeb8d",
+    "name": "Corporate Secrets"
+    },
+    {
+    "id": "6179b4d1bca27a099552e04e",
+    "name": "Revision - Lighthouse"
+    },
+    {
+    "id": "6179b4f16e9dd54ac275e407",
+    "name": "Missing Cargo"
+    },
+    {
+    "id": "6179b5b06e9dd54ac275e409",
+    "name": "Our Own Land"
+    },
+    {
+    "id": "6179b5eabca27a099552e052",
+    "name": "Counteraction"
+    },
+    {
+    "id": "61904daa7d0d857927447b9c",
+    "name": "The Hermit"
+    },
+    {
+    "id": "6193850f60b34236ee0483de",
+    "name": "Long Road"
+    },
+    {
+    "id": "61958c366726521dd96828ec",
+    "name": "Cargo X - Part 4"
+    },
+    {
+    "id": "61e6e5e0f5b9633f6719ed95",
+    "name": "Compensation for Damage - Trust"
+    },
+    {
+    "id": "61e6e60223374d168a4576a6",
+    "name": "Compensation for Damage - Wager"
+    },
+    {
+    "id": "61e6e615eea2935bc018a2c5",
+    "name": "Compensation for Damage - Barkeep"
+    },
+    {
+    "id": "61e6e621bfeab00251576265",
+    "name": "Compensation for Damage - Collection"
+    },
+    {
+    "id": "625d6ff5ddc94657c21a1625",
+    "name": "Network Provider - Part 1"
+    },
+    {
+    "id": "625d6ffaf7308432be1d44c5",
+    "name": "Network Provider - Part 2"
+    },
+    {
+    "id": "625d6ffcaa168e51321d69d7",
+    "name": "Assessment - Part 1"
+    },
+    {
+    "id": "625d6fff4149f1149b5b12c9",
+    "name": "Assessment - Part 2"
+    },
+    {
+    "id": "625d7001c4874104f230c0c5",
+    "name": "Assessment - Part 3"
+    },
+    {
+    "id": "625d70031ed3bb5bcc5bd9e5",
+    "name": "Key to the Tower"
+    },
+    {
+    "id": "625d7005a4eb80027c4f2e09",
+    "name": "Knock-Knock"
+    },
+    {
+    "id": "625d700cc48e6c62a440fab5",
+    "name": "Getting Acquainted"
+    },
+    {
+    "id": "626bd75b05f287031503c7f6",
+    "name": "Drug Trafficking"
+    },
+    {
+    "id": "626bd75c71bd851e971b82a5",
+    "name": "Reconnaissance"
+    },
+    {
+    "id": "626bd75d5bef5d7d590bd415",
+    "name": "Top Secret"
+    },
+    {
+    "id": "626bd75e47ea7f506e5493c5",
+    "name": "Broadcast - Part 1"
+    },
+    {
+    "id": "626bdcc3a371ee3a7a3514c5",
+    "name": "Stray Dogs"
+    },
+    {
+    "id": "638fcd23dc65553116701d33",
+    "name": "Audit"
+    },
+    {
+    "id": "639135534b15ca31f76bc317",
+    "name": "Your Car Needs a Service"
+    },
+    {
+    "id": "6391359b9444fb141f4e6ee6",
+    "name": "You've Got Mail"
+    },
+    {
+    "id": "639135a7e705511c8a4a1b78",
+    "name": "Ballet Lover"
+    },
+    {
+    "id": "639135b04ed9512be67647d7",
+    "name": "Glory to CPSU"
+    },
+    {
+    "id": "639135bbc115f907b14700a6",
+    "name": "Audiophile"
+    },
+    {
+    "id": "639135c3744e452011470807",
+    "name": "House Arrest - Part 1"
+    },
+    {
+    "id": "639135cd8ba6894d155e77cb",
+    "name": "House Arrest - Part 2"
+    },
+    {
+    "id": "639135d89444fb141f4e6eea",
+    "name": "Population Census"
+    },
+    {
+    "id": "639135e0fa894f0a866afde6",
+    "name": "Urban Medicine"
+    },
+    {
+    "id": "639135e8c115f907b14700aa",
+    "name": "Surveillance"
+    },
+    {
+    "id": "639135f286e646067c176a87",
+    "name": "Revision - Streets of Tarkov"
+    },
+    {
+    "id": "639136df4b15ca31f76bc31f",
+    "name": "The Huntsman Path - Administrator"
+    },
+    {
+    "id": "639136e84ed9512be67647db",
+    "name": "Cease Fire!"
+    },
+    {
+    "id": "639136f086e646067c176a8b",
+    "name": "Kings of the Rooftops"
+    },
+    {
+    "id": "639136fa9444fb141f4e6eee",
+    "name": "Watching You"
+    },
+    {
+    "id": "63913703e705511c8a4a1b7c",
+    "name": "Harley Forever"
+    },
+    {
+    "id": "63913715f8e5dd32bf4e3aaa",
+    "name": "Broadcast - Part 2"
+    },
+    {
+    "id": "6391372c8ba6894d155e77d7",
+    "name": "Broadcast - Part 4"
+    },
+    {
+    "id": "639282134ed9512be67647ed",
+    "name": "Road Closed"
+    },
+    {
+    "id": "63966faeea19ac7ed845db2c",
+    "name": "Information Source"
+    },
+    {
+    "id": "63966fbeea19ac7ed845db2e",
+    "name": "Missing Informant"
+    },
+    {
+    "id": "63966fccac6f8f3c677b9d89",
+    "name": "Snatch"
+    },
+    {
+    "id": "63966fd9ea19ac7ed845db30",
+    "name": "Payback"
+    },
+    {
+    "id": "63966fe7ea74a47c2d3fc0e6",
+    "name": "Return the Favor"
+    },
+    {
+    "id": "63966ff54c3ef01b6f3ffad8",
+    "name": "Provocation"
+    },
+    {
+    "id": "639670029113f06a7c3b2377",
+    "name": "Following the Bread Crumbs"
+    },
+    {
+    "id": "6396700fea19ac7ed845db32",
+    "name": "Spotter"
+    },
+    {
+    "id": "6396701b9113f06a7c3b2379",
+    "name": "Make an Impression"
+    },
+    {
+    "id": "639872f9decada40426d3447",
+    "name": "Gunsmith - Part 4"
+    },
+    {
+    "id": "639872fa9b4fb827b200d8e5",
+    "name": "Gunsmith - Part 9"
+    },
+    {
+    "id": "639872fc93ae507d5858c3a6",
+    "name": "Gunsmith - Part 11"
+    },
+    {
+    "id": "639872fe8871e1272b10ccf6",
+    "name": "Gunsmith - Part 14"
+    },
+    {
+    "id": "639873003693c63d86328f25",
+    "name": "Gunsmith - Part 19"
+    },
+    {
+    "id": "63987301e11ec11ff5504036",
+    "name": "Gunsmith - Part 21"
+    },
+    {
+    "id": "639dbaf17c898a131e1cffff",
+    "name": "Debtor"
+    },
+    {
+    "id": "63a511ea30d85e10e375b045",
+    "name": "Broadcast - Part 3"
+    },
+    {
+    "id": "63a5cf262964a7488f5243ce",
+    "name": "Test Drive - Part 2"
+    },
+    {
+    "id": "63a88045abf76d719f42d715",
+    "name": "The Delicious Sausage"
+    },
+    {
+    "id": "63a9ae24009ffc6a551631a5",
+    "name": "Best Job in the World"
+    },
+    {
+    "id": "63a9b229813bba58a50c9ee5",
+    "name": "Worst Job in the World"
+    },
+    {
+    "id": "63a9b36cc31b00242d28a99f",
+    "name": "Slaughterhouse"
+    },
+    {
+    "id": "63ab180c87413d64ae0ac20a",
+    "name": "Dangerous Road"
+    },
+    {
+    "id": "60e71ce009d7c801eb0c0ec6",
+    "name": "Special Equipment"
+    },
+    {
+    "id": "61e6e60c5ca3b3783662be27",
+    "name": "Compensation for Damage - Wergild"
+    }
+]
